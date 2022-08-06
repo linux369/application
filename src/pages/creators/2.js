@@ -17,7 +17,7 @@ const { idc, comments } = creatorDetailsComments;
 
 import { creatorDetailsFaq } from "@/data/creatorContent2";
 import Faqs from "@/components/FaqArea/Faqs";
-
+ 
 
 // import ProjectDetailsSidebar from "@/components/ProjectsArea/ProjectDetails/ProjectDetailsSidebar";
 import { creatorDetailsSidebar } from "@/data/creatorContent2";
